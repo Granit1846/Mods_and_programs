@@ -2,7 +2,7 @@
 
 ## RU
 
-Copyright (c) 2026 skeorz. Все права защищены.
+Copyright (c) 2026 Skeorz. Все права защищены.
 
 **Разрешено:** распространять **только ссылку** на этот репозиторий и/или официальную страницу **Releases**.
 
@@ -19,7 +19,7 @@ Copyright (c) 2026 skeorz. Все права защищены.
 
 ## EN
 
-Copyright (c) 2026 skeorz. All rights reserved.
+Copyright (c) 2026 Skeorz. All rights reserved.
 
 **Allowed:** share **only a link** to this repository and/or its official **Releases** page.
 
@@ -31,3 +31,4 @@ Copyright (c) 2026 skeorz. All rights reserved.
 - any other redistribution of files from this repository.
 
 End users may download and use the files for personal use unless a specific release states otherwise.
+
